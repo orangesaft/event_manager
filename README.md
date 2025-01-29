@@ -1,0 +1,1 @@
+Time Targeting program evaluates how many people sign up for the event in a given timeframe and helps the CEO decide what time he should put advertisement to get the most exposure and attract customers.
